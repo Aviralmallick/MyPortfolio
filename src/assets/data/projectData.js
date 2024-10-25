@@ -2,7 +2,7 @@ export default [
   {
     title: "EVERYthing",
     image: {
-      url: "./src/assets/images/EVERYthing.png",
+      url: "./assets/images/EVERYthing.png",
       alt: "interface",
     },
     tech: [
@@ -17,7 +17,7 @@ export default [
   {
     title: "TO-DO-PP",
     image: {
-      url: "./src/assets/images/to-do-app.png",
+      url: "./assets/images/to-do-app.png",
       alt: "interface",
     },
     tech: [
